@@ -1,2 +1,3 @@
 test merge branch and resolve the confilict!!
 master branch add a line!!
+dev branch add a line!!
